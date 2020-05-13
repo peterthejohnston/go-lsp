@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sourcegraph/go-lsp"
+	"github.com/peterthejohnston/go-lsp"
 )
 
 // WorkspaceSymbolParams is the extension workspace/symbol parameter type.
